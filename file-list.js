@@ -7,7 +7,7 @@ var page = JSON.stringify([]); // Initialize page to empty array
 
 // Define flags and defaults
 var flags = {
-  'port': 1338, // Port to serve on
+  'port': 8080, // Port to serve on
   'path': './', // Path to directory
   'refresh': 10, // How often to check directory (in seconds)
   'show-hidden': false, // Whether to show hidden files
