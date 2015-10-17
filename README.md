@@ -24,7 +24,7 @@ By default, running this command will find all files in the current (excluding h
 
 The following optional flags can be used when running the script.
 
-```bash
+```
 Flag           Default            Description
 
 --port         8080               Port to serve on
